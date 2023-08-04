@@ -18,7 +18,7 @@ This app was developped by:
 - [Oğuzhan İçelliler](https://github.com/oawsim)
 - [Burak Eymen Çevik](https://github.com/Pegasushi30)
 - [İrem Tuğba Sağsöz](https://github.com/iremsagsoz)
-- Taha Eren Keleş
+- [Taha Eren Keleş](https://github.com/TahaErenKeles)
 - Umut Aydın
 - Yahya Koyuncu
 - Begüm Yıldırım
