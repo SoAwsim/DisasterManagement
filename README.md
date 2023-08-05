@@ -21,7 +21,7 @@ This app was developped by:
 - [Taha Eren Keleş](https://github.com/TahaErenKeles)
 - Umut Aydın
 - Yahya Koyuncu
-- Begüm Yıldırım
+- [Begüm Yıldırım](https://github.com/begumyld)
 
 ## ISE 402
 
