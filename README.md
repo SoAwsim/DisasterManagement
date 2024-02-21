@@ -20,7 +20,7 @@ This app was developped by:
 - [İrem Tuğba Sağsöz](https://github.com/iremsagsoz)
 - [Taha Eren Keleş](https://github.com/TahaErenKeles)
 - [Umut Aydın](https://github.com/umt28)
-- Yahya Koyuncu
+- [Yahya Koyuncu](https://github.com/zacyagi)
 - [Begüm Yıldırım](https://github.com/begumyld)
 
 ## ISE 402
