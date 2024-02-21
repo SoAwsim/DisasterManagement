@@ -12,7 +12,7 @@ The goal of this project was to develop a sufficiently complex software project 
 # Contributors
 
 
-This app was developped by:
+This app was developped by: 
 
 ## CSE 344
 
