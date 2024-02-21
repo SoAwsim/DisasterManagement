@@ -19,7 +19,7 @@ This app was developped by:
 - [Burak Eymen Çevik](https://github.com/Pegasushi30)
 - [İrem Tuğba Sağsöz](https://github.com/iremsagsoz)
 - [Taha Eren Keleş](https://github.com/TahaErenKeles)
-- Umut Aydın
+- [Umut Aydın](https://github.com/umt28)
 - Yahya Koyuncu
 - [Begüm Yıldırım](https://github.com/begumyld)
 
